@@ -1,0 +1,8 @@
+{
+    "scripts": {
+  "start": "node api/server.js",
+  "dev": "vercel dev",
+  "build": "vercel build",
+  "deploy": "vercel deploy"
+}
+}
